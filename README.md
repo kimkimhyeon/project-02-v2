@@ -1,1 +1,2 @@
-2025 Fall Semester Open-Sourse SW Programming Project 02
+1. 김현
+2. 20221049
